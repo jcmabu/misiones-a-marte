@@ -6,3 +6,15 @@ header{
 hgroup{
     text-align: center;
 }
+
+.img-curiosity{
+    width: 500px;
+    display:block;
+    margin:auto;
+}
+
+.img-perseverance{
+    width: 500px;
+    display:block;
+    margin:auto;
+}
